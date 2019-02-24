@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Credits
+comment0.text=\r\n\ Shows\ credits.\ \ Checks\ mouse\ input.\r\n
+comment1.params=
+comment1.target=Credits()
+comment2.params=
+comment2.target=void\ act()
+numComments=3

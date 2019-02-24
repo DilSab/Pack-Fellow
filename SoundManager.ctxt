@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=SoundManager
+comment0.text=\r\n\ Manages\ sound\ between\ menu\ switching.\ \ Keeps\ reference.\r\n
+comment1.params=screenWidth\ screenHeight\ cellSize
+comment1.target=SoundManager(int,\ int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ SoundManager.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ soundPlaying()
+comment3.params=
+comment3.target=void\ soundStop()
+comment4.params=
+comment4.target=boolean\ soundIsPlaying()
+numComments=5

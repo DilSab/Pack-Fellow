@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=MainMenu
+comment0.text=\r\n\ MainMenu\ checks\ for\ mouse\ input\ to\ show\ controls,\ credits\ or\ start\ game.\r\n
+comment1.params=
+comment1.target=MainMenu()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ MainMenu.\r\n
+comment2.params=
+comment2.target=void\ act()
+numComments=3

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=EndScreenWon
+comment0.text=\r\n\ End\ screen\ and\ score.\ \ Checks\ mouse\ input.\r\n
+comment1.params=
+comment1.target=EndScreenWon()
+comment2.params=
+comment2.target=void\ prepare()
+comment3.params=
+comment3.target=void\ act()
+numComments=4

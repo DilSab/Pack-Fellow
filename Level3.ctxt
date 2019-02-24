@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Level3
+comment0.text=\r\n\ Level3\:\ Backflip\ and\ dash\ combo.\r\n
+comment1.params=
+comment1.target=Level3()
+comment2.params=
+comment2.target=void\ prepare()
+comment2.text=\r\n\ Prepare\ method.\r\n
+comment3.params=
+comment3.target=void\ drawMap()
+comment3.text=\r\n\ Draws\ map\ using\ string\ with\ case\ switch.\r\n
+comment4.params=
+comment4.target=void\ act()
+comment5.params=
+comment5.target=void\ checkNoPack()
+comment5.text=\r\n\ Checks\ if\ Pack\ is\ alive\ or\ level\ reset\ button\ pressed.\r\n
+comment6.params=
+comment6.target=void\ nextLevel()
+comment6.text=\r\n\ If\ SmallYummy\ empty\ goes\ to\ EndScreenWon.\r\n
+comment7.params=
+comment7.target=void\ clueTaken()
+comment7.text=\r\n\ Shows\ a\ little\ message\ with\ code\ inside\ when\ Clue\ is\ taken\ by\ Pack.\r\n
+comment8.params=
+comment8.target=void\ checkDoorCode()
+comment8.text=\r\n\ Checks\ if\ pressed\ key\ equals\ to\ the\ code's\ first\ symbol.\r\n\ If\ it\ does\ ->\ checks\ the\ next\ one\ with\ next\ pressed\ key.\r\n\ Else\ ->\ starts\ checking\ keys\ all\ over\ again.\r\n\ If\ they\ mach\ ->\ removes\ CodeDoor\ from\ the\ world.\r\n
+numComments=9

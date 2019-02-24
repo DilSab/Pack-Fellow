@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Level1
+comment0.text=\r\n\ Level1\:\ Short\ speedrun.\r\n
+comment1.params=
+comment1.target=Level1()
+comment2.params=
+comment2.target=void\ prepare()
+comment2.text=\r\n\ Creates\ Level1\ world.\r\n
+comment3.params=
+comment3.target=void\ drawMap()
+comment3.text=\r\n\ Draws\ map\ using\ string\ with\ case\ switch.\r\n
+comment4.params=
+comment4.target=void\ act()
+comment5.params=
+comment5.target=void\ checkNoPack()
+comment5.text=\r\n\ Checks\ if\ Pack\ is\ alive\ or\ level\ reset\ button\ pressed.\r\n
+comment6.params=
+comment6.target=void\ nextLevel()
+comment6.text=\r\n\ If\ SmallYummy\ empty\ goes\ to\ next\ world.\r\n
+numComments=7
